@@ -1,0 +1,2 @@
+# SearchRecycler
+RecyclerView with SearchView
